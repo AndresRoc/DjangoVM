@@ -20,4 +20,13 @@ To set up your Git account using Visual Code do the following:
 4. Open VMWare Player and navigate to where the repository was clonned
 5. Open the vmlk file and wait for the image to boot
 6. Log in
-7. open VS Code and initialize your repository
+7. open VS Code 
+8. Repeat the initial steps to set your Git account 
+9. Clone your repository
+10. Execute the following command to visualize your site
+```shell
+  python3 manage.py runserver
+```
+Have fun!!!
+
+      
